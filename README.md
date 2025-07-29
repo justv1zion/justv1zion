@@ -19,7 +19,7 @@ I'm a passionate and experienced **Fullstack Developer** with over **12 years of
 |----------------|------------------------------------------------------------------------|
 | **Frontend**   | HTML, CSS, JavaScript                                                  |
 | **Backend**    | PHP, Python, Java, PowerShell                                          |
-| **Databases**  | MySQL, MSSQL, basic PostgreSQL                                         |
+| **Databases**  | MySQL, MSSQL, basic PostgreSQL, MongoDB, Apache Cassandra              |
 | **Microsoft**  | AL / C/AL (Business Central / Dynamics NAV)                            |
 | **Other**      | Git, REST APIs, CLI Tools, Shell Scripting                             |
 
