@@ -27,9 +27,9 @@ I'm a passionate and experienced **Fullstack Developer** with over **12 years of
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=justv1zion&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justv1zion&layout=compact&theme=default)
 
 ---
 
