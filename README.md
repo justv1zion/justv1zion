@@ -6,7 +6,7 @@ I'm a passionate and experienced **Fullstack Developer** with over **12 years of
 
 ## 💼 Professional Background
 
-- 🏢 **3 years at Microsoft** as a CRM/ERP Developer  
+- 🏢 **3 years** as a CRM/ERP Developer  
 - 🔧 Freelance Fullstack Developer with a strong focus on client-driven web projects  
 - 🎓 Certified **Webmaster** with expertise in web design, development, and infrastructure  
 - 🤝 Open to collaborations and exciting software challenges  
