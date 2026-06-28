@@ -33,11 +33,4 @@ I'm a passionate and experienced **Fullstack Developer** with over **12 years of
 
 ---
 
-## 🔗 More About Me
-
-- 🌐 Company Website: [itecmedia.net](https://itecmedia.net)
-- 📫 Contact: contact@itecmedia.net
-
----
-
 > _"Code is like humor. When you have to explain it, it’s bad."_ – Cory House
